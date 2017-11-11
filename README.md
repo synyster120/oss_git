@@ -15,4 +15,8 @@ After Merge
 
 Additional Merge
 
+<<<<<<< HEAD
 For Conflict (branch)
+=======
+For Conflict (Master)
+>>>>>>> master
