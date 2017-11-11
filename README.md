@@ -9,4 +9,6 @@
 
 5 테스트
 
-새로운 브랜치로 옮겨왔습니다. (Master)
+new changes (branch2)
+
+After Merge
